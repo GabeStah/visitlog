@@ -6,7 +6,7 @@
 		"visitor",
 		"ip"
 	],
-	"description": "Laravel package to log visitor information into database.",
+	"description": "Laravel package to log visitor information into database .",
 	"type": "library",
 	"license": "MIT",
 	"authors": [
